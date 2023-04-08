@@ -1,0 +1,15 @@
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\bin\Debug\net7.0\HW1_1.exe
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\bin\Debug\net7.0\HW1_1.deps.json
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\bin\Debug\net7.0\HW1_1.runtimeconfig.json
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\bin\Debug\net7.0\HW1_1.dll
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\bin\Debug\net7.0\HW1_1.pdb
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\HW1_1.csproj.AssemblyReference.cache
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\HW1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\HW1_1.AssemblyInfoInputs.cache
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\HW1_1.AssemblyInfo.cs
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\HW1_1.csproj.CoreCompileInputs.cache
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\HW1_1.dll
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\refint\HW1_1.dll
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\HW1_1.pdb
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\HW1_1.genruntimeconfig.cache
+C:\Users\homa\OneDrive\Desktop\GB_HW\C#\HW1_1\obj\Debug\net7.0\ref\HW1_1.dll
