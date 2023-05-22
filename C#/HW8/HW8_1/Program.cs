@@ -35,19 +35,30 @@ void PrintArray(int[,] arrayPrint)
 
 int[,] SortArray(int[,] arraySort)
 {
+    //int[,] arrayNewSort = arraySort;
     for (int i = 0; i < arraySort.GetLength(0); i++)
     {
-        for (int j = 0; j < arraySort.GetLength(1) - 1; j++)
-        {
-            
-
-            if (arraySort[i, j] > arraySort[i, j+1] )
-            {   
-                int max = arraySort[i, 0];
-                max = arraySort[i, j];
-                arraySort[i, j] = arraySort[i, j + 1];
-                arraySort[i, j] = max;
+        for (int j = 0; j < arraySort.GetLength(1)-1; j++)
+        {    
+            int max = arraySort[i, j];
+            int temp = arraySort[i, j];   
+            for ( int count = j; count < arraySort.GetLength(1)-1; count++)
+            //if (j < arraySort.GetLength(1)-1)
+            {
+                   
+                if (max < arraySort[i, count + 1])
+                {   
+                    max = arraySort[i, count + 1];
+                    //arraySort[i, count] = ;
+                    
+                    //arraySort[i, j] = max;
+                }
+                //arraySort[i, count + 1] = arraySort[i, count];
+                
             }
+
+            arraySort[i, j] = max;      
+            
         }
         Console.WriteLine();
     }
